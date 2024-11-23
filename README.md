@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyswarnakar&label=Profile%20views&color=0e75b6&style=flat" alt="joyswarnakar" /> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **CodingZindagi </>💻 , AghoriDevelopers 🛠️👨‍💻 & SwastikProgrammers  🛠️👨‍💻**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and MERN Stack**
 
 - 💬 Ask me about **Front-end development**
 
