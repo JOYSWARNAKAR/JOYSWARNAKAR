@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **CodingZindagi </>💻 , AghoriDevelopers 🛠️👨‍💻 , SwastikProgrammers  🛠️👨‍💻**
 
-- 🌱 I’m currently learning **Javascript and MERN Stack**
+- 🌱 I’m currently learning **JAVA with DSA, Javascript and MERN Stack**
 
-- 💬 Ask me about **Front-end development**
+- 💬 Ask me about **Front-end development , DSA in JAVA and Competative Programming**
 
 
 <h3 align="left">Connect with me:</h3>
