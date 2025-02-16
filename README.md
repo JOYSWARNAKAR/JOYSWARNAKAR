@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **Front-end development**
 
-- 📫 How to reach me **joyswarnakar1025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
