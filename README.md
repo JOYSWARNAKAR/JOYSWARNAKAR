@@ -1,5 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
-<h1 align="center">Hi 👋, I'm Joy Swarnakar</h1>
+<h1 align="center"
+  ggf>Hi 👋, I'm Joy Swarnakar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt ="Coding" width ="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
