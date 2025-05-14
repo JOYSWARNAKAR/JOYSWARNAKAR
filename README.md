@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyswarnakar&label=Profile%20views&color=0e75b6&style=flat" alt="joyswarnakar" /> </p>
 
-- 🔭 I’m currently working on **CodingZindagi </>💻 , AghoriDevelopers 🛠️👨‍💻 , SwastikProgrammers  🛠️👨‍💻**
+- 🔭 I’m currently working on BengalDevs🛠️👨‍💻 
 
-- 🌱 I’m currently learning **JAVA with DSA, Javascript and MERN Stack**
+- 🌱 I’m currently learning **DSA with C++ , Javascript and MERN Stack**
 
-- 💬 Ask me about **Front-end development , DSA in JAVA and Competative Programming**
+- 💬 Ask me about **Front-end development and DSA **
 
 
 <h3 align="left">Connect with me:</h3>
